@@ -5,12 +5,12 @@ I'm a Web Developer, and I'm studying web development at [Rocketseat](https://ro
 Enthusiast of the best web & mobile development technologies.
 
 #### Current Stack
-  - Main Language: `JavaScript`
-  - Backend: `Nodejs`
-  - Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
-  - Layout Design: `Figma`
-  - Version code control: `Git & GitHub`
-  - Tools: `VsCode` 
+  - :zap: Main Language: `JavaScript`
+  - 📡 Backend: `Nodejs`
+  - :tada: Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+  - :art: Layout Design: `Figma`
+  - :package: Version code control: `Git & GitHub`
+  - :hammer: Tools: `VsCode` 
 
 #### Contacts
 
