@@ -14,5 +14,5 @@ Enthusiast of the best web & mobile development technologies.
 
 #### Contacts
 
-  - [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Damasceno-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)](https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Damasceno-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)](https://www.linkedin.com/in/guilherme-damasceno-1b703a286/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermedamasceno38@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermedamasceno38@gmail.com)](mailto:guilhermedamasceno38@gmail.com)
