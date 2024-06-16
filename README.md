@@ -8,9 +8,7 @@ Enthusiast of the best web & mobile development technologies.
   - :zap: Main Language: `JavaScript`
   - 📡 Backend: `Nodejs`
   - :tada: Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
-  - :art: Layout Design: `Figma`
   - :package: Version code control: `Git & GitHub`
-  - :hammer: Tools: `VsCode` 
 
 #### Contacts
 
