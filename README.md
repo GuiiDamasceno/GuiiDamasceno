@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme Damascecno 👋
+### Hi there, I'm Guilherme Damasceno 👋
 
 #### About
 I'm a Web Developer, and I'm studying web development at [Rocketseat](https://rocketseat.com.br/).
