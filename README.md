@@ -7,8 +7,9 @@ Enthusiast of the best web & mobile development technologies.
 #### Current Stack
   - :zap: Main Language: `JavaScript`
   - 📡 Backend: `Nodejs`
-  - :tada: Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+  - :tada: Frontend: `Reactjs`, `Nextjs`, `HTML5`, `CSS3`, `JavaScript`
   - :package: Version code control: `Git & GitHub`
+  - 👨‍💻 More at my website [guilherme.dev](https://guilhermerodriguesdamasceno.vercel.app/)
 
 #### Contacts
 
